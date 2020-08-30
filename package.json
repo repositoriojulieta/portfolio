@@ -10,7 +10,7 @@
     "gridsome": "^0.7.0",
     "netlify-cms": "^2.10.55",
     "vue": "^2.6.10",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.12"
   },
   "devDependencies": {
     "@gridsome/source-filesystem": "^0.6.0",
