@@ -1,0 +1,23 @@
+{
+  "site_name": "Julieta Christofilakis",
+  "header_title": "Julieta Christofilakis",
+  "first_letter_only": true,
+  "email": "julichristofilakis@gmail.com",
+  "social": [
+    {
+      "channel": "twitter",
+      "handle": "griegajpg",
+      "link_text": "tw"
+    },
+    {
+      "channel": "instagram",
+      "handle": "griega.jpg",
+      "link_text": "ig"
+    },
+    {
+      "channel": "vimeo",
+      "handle": "griegajpg",
+      "link_text": "vm"
+    }
+  ]
+}
