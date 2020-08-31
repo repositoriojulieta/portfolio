@@ -4,9 +4,12 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: projects/**/*
+- type: directory
+  path: projects
   label: Post
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
