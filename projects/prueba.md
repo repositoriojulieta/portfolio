@@ -1,6 +1,6 @@
 ---
 title: Prueba
-thumbnail: static/uploads/favicon.png
+thumbnail: static/uploads/b2fa9a70439237.5ba36d85b97d2.jpg
 year: "2020"
 categories:
 - flores
