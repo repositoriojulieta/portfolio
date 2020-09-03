@@ -13,7 +13,7 @@ sections:
   templates:
   - publicacion
 upload_dir: static/uploads
-public_path: "../assets/static"
+public_path: "../static/uploads"
 front_matter_path: static/uploads
 use_front_matter_path: true
 file_template: ":filename:"
