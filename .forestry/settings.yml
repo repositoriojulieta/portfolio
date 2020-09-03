@@ -14,8 +14,8 @@ sections:
   - publicacion
 upload_dir: static/uploads
 public_path: assets/static
-front_matter_path: ''
-use_front_matter_path: false
+front_matter_path: static/uploads
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_output_directory: dist
