@@ -1,6 +1,6 @@
 ---
 title: Prueba
-thumbnail: static/uploads/vscode2.png
+thumbnail: static/uploads/cruzmalta.jpg
 year: "2020"
 categories:
 - flores
