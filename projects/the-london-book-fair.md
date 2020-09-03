@@ -1,7 +1,7 @@
 ---
-title: The London Book Fair
-thumbnail: "../static/uploads/c0279e51944227.58ff649a8bbfb.jpg"
-year: "2017"
+title: le debo todo al azar
+thumbnail: "../static/uploads/collage-posterwebb.jpg"
+year: 2017-2020
 categories:
 - Branding
 
