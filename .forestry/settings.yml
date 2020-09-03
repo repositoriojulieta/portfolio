@@ -12,8 +12,8 @@ sections:
   new_doc_ext: md
   templates:
   - publicacion
-upload_dir: assets/static/uploads
-public_path: assets/static/uploads
+upload_dir: static/uploads
+public_path: static/uploads
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
