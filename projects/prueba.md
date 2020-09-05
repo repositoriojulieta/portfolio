@@ -23,3 +23,9 @@ Participantes: Julieta Christofilakis, Julia Sbriller, Martina Perosa, Lucía Pr
 #### 3J 2020. No estamos aisladxs, estamos alerta.
 
 Junio 2020
+
+![](../static/uploads/3c2aeb8c-a0b7-4aed-a1c5-1460dbea4223.jpg)
+
+Video realizado colectivamente desde el encierro para el 3 de Junio 2020. Ni unx menos en cuarentena. 
+
+Participantes: Julieta Christofilakis, Vale Dranosvky, Lucía Prieto, Mariana Papagni, Martina Perosa, M.A.f.I.A, Catalina Bartolomé, OCP Oráculo, Coni Rosman y Guadalupe Arriegue
