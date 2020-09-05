@@ -29,3 +29,5 @@ Junio 2020
 Video realizado colectivamente desde el encierro para el 3 de Junio 2020. Ni unx menos en cuarentena. 
 
 Participantes: Julieta Christofilakis, Vale Dranosvky, Lucía Prieto, Mariana Papagni, Martina Perosa, M.A.f.I.A, Catalina Bartolomé, OCP Oráculo, Coni Rosman y Guadalupe Arriegue
+
+[VER VIDEO](https://www.instagram.com/tv/CA-dC5WA7EE/)
