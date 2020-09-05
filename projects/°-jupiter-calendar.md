@@ -149,4 +149,4 @@ encontrá más preguntas._
 62. _¿me considero mi propio objeto de estudio?_
 63. _¿le debo todo al azar?_
 
-[**Nota en colibrí revista**](https://revistacolibri.com.ar/fotografe-semana-debo-todo-azar-julieta-christofilakis/?fbclid=IwAR3ZIcc6xLqcsagx5is82GZ7lkLGH1FPSlLCkKLU1EETYbH4h94e47wYfQs "le debo todo al azar") 
+[**Entrevista en la sección "Fotógrafe de la semana" en Colibrí Revista**](https://revistacolibri.com.ar/fotografe-semana-debo-todo-azar-julieta-christofilakis/?fbclid=IwAR3ZIcc6xLqcsagx5is82GZ7lkLGH1FPSlLCkKLU1EETYbH4h94e47wYfQs)
