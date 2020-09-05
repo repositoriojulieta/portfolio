@@ -1,17 +1,15 @@
 ---
-title: Prueba
-thumbnail: ../static/uploads/cruzmalta.jpg
-year: "2020"
+title: coberturas colaborativas
+thumbnail: "../static/uploads/197724fd-dc27-431b-b0f4-436f9a0c3b2e.jpg"
+year: 2019-2020
 categories:
 - flores
 
 ---
-# estoy probando el sistema de publicacion
+#### Vale Tode
 
-![](/uploads/favicon.png)
+Octubre 2019
 
-### esto es un subtitulo
+#### 3J 2020. No estamos aisladxs, estamos alerta.
 
-![](/uploads/e9094b51944227.58ff649a8b6cc.jpg)
-
-sadfasdfasdfas
+Junio 2020
