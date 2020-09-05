@@ -1,11 +1,24 @@
 ---
-title: le debo todo al azar
-thumbnail: "../static/uploads/collage-posterwebb.jpg"
-year: 2017-2020
+title: 'descubrir lo secreto '
+thumbnail: "../static/uploads/captura-de-pantalla-2020-04-30-a-la-s-15-13-20.png"
+year: "2019"
 categories:
-- Branding
+- corto
+- audiovisual
+- videopoesía
+- videoarte
 
 ---
-le debo todo al azar
+#### _descubrir lo secreto - videopoesía_
 
-![](/uploads/2fa1bd51944227.58ff75f34c58b.jpg)![](/uploads/52654851944227.58ff649a8e55a.gif)![](/uploads/6c6ab951944227.58ff669ae3061.jpg)![](/uploads/4367ab51944227.58ff649a8f19b.jpg)![](/uploads/2f988f51944227.58ff649a8cb06.jpg)![](/uploads/c421be51944227.58ff649a8eca7.jpg)![](/uploads/9bf4c251944227.58ff649a8c132.jpg)![](/uploads/29d12f51944227.58ff649a8a960.jpg)![](/uploads/e5f3f751944227.58ff649a8da1f.jpg)![](/uploads/1a775351944227.58ff9d22ebaa2.jpg)![](/uploads/f0076d51944227.58ff649a8df3e.jpg)![](/uploads/bea96951944227.58ff649a8a41c.jpg)![](/uploads/e9094b51944227.58ff649a8b6cc.jpg)![](/uploads/8ad53c51944227.58ff649a8f744.gif)![](/uploads/4bcb8551944227.58ff649a8b1fa.jpg)![](/uploads/eb723851944227.58ff649a8ae69.jpg)![](/uploads/961be751944227.58ff649a8e9e3.jpg)![](/uploads/57823a51944227.58ff669ae47a1.gif)![](/uploads/d37e6851944227.58ff669ae51a6.jpg)
+_en diciembre de 2019 me fui a filmar y escribir a Mar Azul, un lugar de la costa argentina en la cual veraneo desde chica._ 
+
+_fui con un montón de ejercicios y consignas que no seguí ¿a intentar exorcizar? no sé, a intentar responder._ 
+
+agradecimiento especial a Emilia Ferreyra que me acompañó y ayudó en la mayoría de los rodajes. 
+
+[VER CORTO](https://vimeo.com/405680177)
+
+a continuación un par de fotografías tomadas en rodaje
+
+![](../static/uploads/14.jpg)![](../static/uploads/15.jpg)![](../static/uploads/captura-de-pantalla-2020-04-30-a-la-s-15-13-37.png)![](../static/uploads/captura-de-pantalla-2020-04-30-a-la-s-15-13-54.png)![](../static/uploads/16.jpg)![](../static/uploads/20.jpg)
