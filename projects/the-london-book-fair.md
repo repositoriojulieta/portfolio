@@ -3,10 +3,7 @@ title: 'descubrir lo secreto '
 thumbnail: "../static/uploads/captura-de-pantalla-2020-04-30-a-la-s-15-13-20.png"
 year: "2019"
 categories:
-- corto
-- audiovisual
 - videopoesía
-- videoarte
 
 ---
 #### _descubrir lo secreto - videopoesía_
