@@ -57,3 +57,19 @@ Estas dualidades se pueden ver en la elección del dispositivo: cámara de medio
 ![](../static/uploads/foto_21.png)
 
 ![](../static/uploads/foto_22.jpg)
+
+![](../static/uploads/foto_24.png)
+
+![](../static/uploads/foto_25.jpg)
+
+![](../static/uploads/foto_26.jpg)
+
+![](../static/uploads/foto_27.png)
+
+![](../static/uploads/foto_28.png)
+
+![](../static/uploads/foto_29.png)
+
+![](../static/uploads/foto_31.jpg)
+
+![](../static/uploads/foto_33.png)
