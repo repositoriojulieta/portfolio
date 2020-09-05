@@ -1,9 +1,9 @@
 ---
-title: "° Jupiter Calendar"
-thumbnail: "../static/uploads/827e4260883469.5a5cccc989703.jpg"
-year: "2018"
+title: le debo todo al azar
+thumbnail: "../static/uploads/ledebotodoalazarweb.jpg"
+year: 2017-2020
 categories:
-- graphic
+- fotografía
 
 ---
 This project was created by [\[explicit\]](https://www.behance.net/explic_it), visit their Behance profile for more awesomeness.
