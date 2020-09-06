@@ -1,32 +1,32 @@
 ---
 title: coberturas colaborativas
-thumbnail: "../static/uploads/197724fd-dc27-431b-b0f4-436f9a0c3b2e.jpg"
+thumbnail: "../static/uploads/coberturasweb.jpg"
 year: 2019-2020
 categories: []
 
 ---
 #### Vale Tode
 
-Octubre 2019
+_Octubre 2019_
 
-![](../static/uploads/197724fd-dc27-431b-b0f4-436f9a0c3b2e.jpg)
+![](../static/uploads/coberturasweb.jpg)
 
-Cobertura Colaborativa #ValeTode del 34 Encuentro Plurinacional de Mujeres, Lesbianas, Bisexuales, Travestis, Trans, No binarias, Intersex. 
+_Cobertura Colaborativa #ValeTode del 34 Encuentro Plurinacional de Mujeres, Lesbianas, Bisexuales, Travestis, Trans, No binarias, Intersex._
 
-Participantes: Julieta Christofilakis, Julia Sbriller, Martina Perosa, Lucía Prieto, M.A.f.I.A, Mariana Papagni, Creadores de Imágenes, Romina Elvira y Soledad Asurey. 
+_Participantes: Julieta Christofilakis, Julia Sbriller, Martina Perosa, Lucía Prieto, M.A.f.I.A, Mariana Papagni, Creadores de Imágenes, Romina Elvira y Soledad Asurey._
 
-12, 13 y 14 de Octubre del 2019 en La Plata, Argentina.
+_12, 13 y 14 de Octubre del 2019 en La Plata, Argentina._
 
-[VER VIDEO](https://www.instagram.com/tv/B3ziAb8FWSM/)
+#### [VER VIDEO](https://www.instagram.com/tv/B3ziAb8FWSM/)
 
 #### 3J 2020. No estamos aisladxs, estamos alerta.
 
-Junio 2020
+_Junio 2020_
 
-![](../static/uploads/3c2aeb8c-a0b7-4aed-a1c5-1460dbea4223.jpg)
+![](../static/uploads/coberturas2.jpg)
 
-Video realizado colectivamente desde el encierro para el 3 de Junio 2020. Ni unx menos en cuarentena. 
+_Video realizado colectivamente desde el encierro para el 3 de Junio 2020. Ni unx menos en cuarentena._
 
-Participantes: Julieta Christofilakis, Vale Dranosvky, Lucía Prieto, Mariana Papagni, Martina Perosa, M.A.f.I.A, Catalina Bartolomé, OCP Oráculo, Coni Rosman y Guadalupe Arriegue
+_Participantes: Julieta Christofilakis, Vale Dranosvky, Lucía Prieto, Mariana Papagni, Martina Perosa, M.A.f.I.A, Catalina Bartolomé, OCP Oráculo, Coni Rosman y Guadalupe Arriegue_
 
-[VER VIDEO](https://www.instagram.com/tv/CA-dC5WA7EE/)
+#### [VER VIDEO](https://www.instagram.com/tv/CA-dC5WA7EE/)
