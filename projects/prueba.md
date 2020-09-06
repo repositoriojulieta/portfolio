@@ -2,7 +2,8 @@
 title: coberturas colaborativas
 thumbnail: "../static/uploads/coberturasweb.jpg"
 year: 2019-2020
-categories: []
+categories:
+- registro audiovisual
 
 ---
 #### Vale Tode
