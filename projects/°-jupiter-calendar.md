@@ -152,3 +152,5 @@ encontrá más preguntas._
 63. _¿le debo todo al azar?_
 
 [**Entrevista en la sección "Fotógrafe de la semana" en Colibrí Revista**](https://revistacolibri.com.ar/fotografe-semana-debo-todo-azar-julieta-christofilakis/?fbclid=IwAR3ZIcc6xLqcsagx5is82GZ7lkLGH1FPSlLCkKLU1EETYbH4h94e47wYfQs)
+
+[**Venta de obra en FUKÓ galería**](https://www.fuko.com.ar/35mm/julieta-christofilakis/)
