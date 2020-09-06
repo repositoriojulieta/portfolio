@@ -6,7 +6,7 @@ categories:
 - fotografía
 
 ---
-le debo todo al azar
+#### le debo todo al azar
 
 _Tengo 21 años y con mi cámara como acompañante me siento en plena construcción de mi diario íntimo, un relato de mis estados de ánimo sola y acompañada._
 
