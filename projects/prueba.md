@@ -18,7 +18,7 @@ _Participantes: Julieta Christofilakis, Julia Sbriller, Martina Perosa, Lucía P
 
 _12, 13 y 14 de Octubre del 2019 en La Plata, Argentina._
 
-#### [VER VIDEO](https://www.instagram.com/tv/B3ziAb8FWSM/)
+### [VER VIDEO](https://www.instagram.com/tv/B3ziAb8FWSM/)
 
 #### 3J 2020. No estamos aisladxs, estamos alerta.
 
@@ -30,4 +30,4 @@ _Video realizado colectivamente desde el encierro para el 3 de Junio 2020. Ni un
 
 _Participantes: Julieta Christofilakis, Vale Dranosvky, Lucía Prieto, Mariana Papagni, Martina Perosa, M.A.f.I.A, Catalina Bartolomé, OCP Oráculo, Coni Rosman y Guadalupe Arriegue_
 
-#### [VER VIDEO](https://www.instagram.com/tv/CA-dC5WA7EE/)
+### [VER VIDEO](https://www.instagram.com/tv/CA-dC5WA7EE/)
