@@ -16,7 +16,7 @@ _Me considero parte de una generación que tiene muchas mas dudas que certezas, 
 
 _Estas dualidades se pueden ver en la elección del dispositivo: cámara de medio cuadro. Las imágenes dialogan y el azar empieza a tomar un rol protagónico al perder la cuenta de las fotografías sacadas._
 
-(trabajo en proceso / work in progress) 
+_(trabajo en proceso / work in progress)_
 
 ![](../static/uploads/foto_2.png)
 
