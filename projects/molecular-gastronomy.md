@@ -1,6 +1,6 @@
 ---
 title: popurrí de impulsos
-thumbnail: "../static/uploads/a.jpg"
+thumbnail: "../static/uploads/pulsionesweb.jpg"
 year: 2018-2020
 categories:
 - videoarte
