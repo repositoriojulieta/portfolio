@@ -1,6 +1,6 @@
 ---
 title: le debo todo al azar
-thumbnail: "../static/uploads/ledebotodoalazarweb.jpg"
+thumbnail: "../static/uploads/ledebotodoalazar.jpg"
 year: 2017-2020
 categories:
 - fotografía
