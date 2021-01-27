@@ -36,7 +36,7 @@ export default {
 <style lang="scss" scoped>
 .project-meta {
   display: flex;
-  padding: 4rem 0;
+  padding: 2rem 0;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   line-height: 1.5;
